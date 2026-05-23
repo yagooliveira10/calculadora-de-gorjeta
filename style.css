@@ -108,6 +108,11 @@ main{
 
 }
 
+.gorjeta .botao-ativo {
+    background-color: var(--Light-green);
+    color: var(--green-800);
+}
+
 .gorjeta input[type="button"]:hover,
 .resultados button:hover {
     background-color: var(--green-hover);
